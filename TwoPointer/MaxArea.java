@@ -23,6 +23,6 @@ public class MaxArea {
         MaxArea solution = new MaxArea();
 
         System.out.println(solution.maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7})); // 49
-        System.out.println(solution.maxArea(new int[]{1, 1}));                       // 1
+        System.out.println(solution.maxArea(new int[]{1, 1}));                      // 1
     }
 }
